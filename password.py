@@ -19,13 +19,12 @@ for char_2 in range(1, nr_symbols + 1):
 for char_3 in range(1, nr_numbers + 1):
     password += random.choice(numbers)
 
-print(password)
 
 password_shuffle = list(password)
 random.shuffle(password_shuffle)
 shuffled_password = ''.join(password_shuffle)
 
-print(shuffled_password)
+print("Your password is: " + shuffled_password)
 
 
     
