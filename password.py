@@ -24,10 +24,9 @@ password_shuffle = list(password)
 random.shuffle(password_shuffle)
 shuffled_password = ''.join(password_shuffle)
 
-print("Your password is: " + shuffled_password)
+print("Your password is:  " + shuffled_password)
 
 
 
-    
 
 
