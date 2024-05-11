@@ -16,7 +16,7 @@ print(display)
 
 guess = input("Guess a letter: ").lower()
 
-
+#change
 print(" ")
 
 for position in range(0, word_length):
