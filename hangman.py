@@ -24,7 +24,5 @@ for position in range(0, word_length):
     if letter == guess:
         display[position] = letter
 print(display)
-        #want this to then display the guessed character in sequqnce of word chosen 
 
-#hawaii
-        
+#kauai
