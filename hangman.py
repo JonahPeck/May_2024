@@ -25,4 +25,3 @@ for position in range(0, word_length):
         display[position] = letter
 print(display)
 
-#kauai
