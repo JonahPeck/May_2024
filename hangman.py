@@ -94,8 +94,6 @@ while not end_of_game:
     if letter != guess:
         print(stages[lives])
 
-print("You lose")
-
- heyyyy   
+print("You lose")  
 
 
