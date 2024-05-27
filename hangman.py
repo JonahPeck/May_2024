@@ -97,5 +97,4 @@ while not end_of_game:
 print("You lose")  
 
 
-dcdicvndivcndoisncos
-doicneop
+sckscnksjcnk
